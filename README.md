@@ -35,4 +35,7 @@ DISHA – A comprehensive project combining frontend, backend, and AI model trai
 
 My GitHub repositories reflect my journey in the tech field, spanning from full-stack development to AI and machine learning. With each project, I continue to improve my skills and apply them to real-world applications. I am committed to learning and evolving in the areas of AI, full-stack development, and backend technologies, as I strive to build solutions that make a meaningful impact.
 
-:: See you soon With new skills ::
+Contact me: 
+vanshpratapsingh1121@gmail.com
+
+:: See you soon ::
