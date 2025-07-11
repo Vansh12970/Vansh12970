@@ -23,7 +23,8 @@ Smart India Hackathon (SIH) 2024 Finalist – Finalist in the Smart India Hackat
 🚀 SIH 2024 Project (https://github.com/Vansh12970/DISHA)
 Check out the repository for my Smart India Hackathon (SIH) 2024 project, where we tackled challenges and built impactful solutions. SIH Project Repository.
 
-🔧 My Projects Repositories
+🔧 My Projects 
+My Projects List - All projects made by me (https://github.com/stars/Vansh12970/lists/projects)
 
 JavaScript – A complete journey to learn JavaScript, from basic to advanced, on a production-grade level. (https://github.com/Vansh12970/javascript)
 
