@@ -1,43 +1,81 @@
-👋 Welcome to My GitHub Profile!
+<h1 align="center">🚀 Hey, I'm Vansh Pratap Singh</h1>
+<p align="center">
+  <img src="./Assets/me.jpg" width="200" style="border-radius: 50%;" alt="Vansh's Profile Picture"/>
+</p>
 
-🎓 About Me
+---
 
-I am a B.Tech Computer Science student at Chandigarh University, with a strong foundation in backend development. Throughout my academic journey, I’ve gained hands-on experience in backend development while also expanding my expertise in frontend technologies. I’m proud to be a Smart India Hackathon (SIH) 2024 finalist with my team, Team CodeX.
-While my current focus is on full-stack development, I have also achieved proficiency in AI and machine learning, and I continue to push myself toward mastering these advanced technologies.
+## 🎓 About Me
 
-🛠️ Technical Skills
+- 💻 **B.Tech CSE Student** @ *Chandigarh University*
+- 🛠️ **Backend Development Specialist** with a solid foundation in frontend technologies
+- 🧠 Passionate about **AI & Machine Learning**, building models & integrating ML into apps
+- 🏆 **Finalist** – *Smart India Hackathon (SIH) 2024*, Team CodeX
+- 🌱 Always learning, always creating — currently diving deeper into **full-stack development** & **system design**
 
-Programming Languages: C++, JavaScript, Java
-Backend Development Frameworks: Node.js, Express.js
-Frontend Technologies: HTML, CSS, JavaScript
-Data Modeling: Mongoose (MongoDB)
-Databases: MySQL, MongoDB, MongoDB Atlas
-Tools: Postman, Cloudinary, StackBlitz
-AI & Machine Learning: Experienced with building AI models and integrating machine learning algorithms.
+---
 
-🏆 Achievements
+## 🛠️ Tech Arsenal
 
-Smart India Hackathon (SIH) 2024 Finalist – Finalist in the Smart India Hackathon (SIH) 2024 as part of Team CodeX for creating impactful solutions with our project DISHA.
+- **💡 Languages:** C++ | JavaScript | Java  
+- **⚙️ Backend Frameworks:** Node.js | Express.js  
+- **🎨 Frontend:** HTML | CSS | JavaScript  
+- **🗄️ Databases & Modeling:** MySQL | MongoDB | MongoDB Atlas | Mongoose  
+- **🧩 Tools & Platforms:** Postman | Cloudinary | StackBlitz  
+- **🤖 AI/ML:** Model building & ML algorithm integration  
 
-📂 My Repository of Project DISHA
-🚀 SIH 2024 Project (https://github.com/Vansh12970/DISHA)
-Check out the repository for my Smart India Hackathon (SIH) 2024 project, where we tackled challenges and built impactful solutions. SIH Project Repository.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,nodejs,express,mongodb,mysql,git,github,postman" />
+</p>
 
-🔧 My Projects 
+---
 
-My Projects List - All projects made by me (https://github.com/stars/Vansh12970/lists/projects)
+## 🚀 Featured Creations
 
-JavaScript – A complete journey to learn JavaScript, from basic to advanced, on a production-grade level. (https://github.com/Vansh12970/javascript)
+- 🌍 **[DISHA](https://github.com/Vansh12970/DISHA)** – AI-powered disaster management platform (*SIH 2024 Finalist Project*)
+- 🎥 **[Backend of MyPlayer](https://github.com/Vansh12970/Backend-Of-Myplayer)** – Backend for an online video player
+- 📜 **[JavaScript Learning Repo](https://github.com/Vansh12970/javascript)** – My journey from JS basics to production-grade apps
+- 📂 **[All My Projects](https://github.com/stars/Vansh12970/lists/projects)** – The complete showcase of my work
 
-Backend of MyPlayer – Building the backend of an online video player (MyPlayer) with a deep understanding of backend development. (https://github.com/Vansh12970/Backend-Of-Myplayer)
+---
 
-DISHA – A comprehensive project combining frontend, backend, and AI model training for disaster management.(https://github.com/Vansh12970/DISHA)
+## 🏆 Achievements & Highlights
 
-💡 About My Journey
+- 🏅 **Smart India Hackathon 2024 Finalist** – Built impactful AI-powered disaster management solution
+- 🌟 Created full-stack apps that integrate AI for real-world problem-solving
+- 📈 Consistently pushing boundaries in backend, AI, and full-stack development
 
-My GitHub repositories reflect my journey in the tech field, spanning from full-stack development to AI and machine learning. With each project, I continue to improve my skills and apply them to real-world applications. I am committed to learning and evolving in the areas of AI, full-stack development, and backend technologies, as I strive to build solutions that make a meaningful impact.
+---
 
-Contact me: 
-vanshpratapsingh1121@gmail.com
+## 💡 My Tech Journey in a Nutshell
 
-:: See you soon ::
+- 🖥 Started with C++ basics → moved into web dev → mastered backend systems  
+- 🤖 Ventured into **AI & ML**, training models & integrating them into live apps  
+- 🎯 Mission: Build tech that **creates real-world impact**  
+
+---
+
+## 🔍 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh12970&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh12970&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh12970&theme=react-dark" width="100%" />
+</p>
+
+
+---
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/itsme-vansh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vanshpratapsingh1121@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="./Assets/resume.pdf" download><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><strong>✨ “Code with purpose, create with passion.” ✨</strong></p>
