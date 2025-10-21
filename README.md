@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">🚀 Hey, I'm Vansh Pratap Singh</h1>
 <p align="center">
   <img src="./Assets/me.jpg" width="200" style="border-radius: 50%;" alt="Vansh's Profile Picture"/>
