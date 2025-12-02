@@ -86,12 +86,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh12970&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vansh12970&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh12970&show_icons=true&theme=tokyonight&cache_seconds=3600" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Vansh12970&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh12970&theme=react-dark" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh12970&theme=react-dark&area=true" width="100%" />
 </p>
 
 ---
